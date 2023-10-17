@@ -5,7 +5,7 @@
 One of the most important but crucial steps in data management is data cleaning. The maintenance of accuracy and reliability is one of the primary parts of data cleaning.
 In this task, a large dataset was given to clean and transform. This will enable quality insights for decision-making.
 
-![](PowerBI_Task2)
+![](PowerBI_Task2.png)
 
 The screenshot shows cleaned and transformed data. The steps carried out in cleaning and transforming the data were;
 
